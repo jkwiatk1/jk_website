@@ -1,8 +1,8 @@
 title: JAN KWIATKOWSKI BLOG
 description: This page contains information about my experiences and presents the projects I have created. 
 
-baseurl: "jan_kwiatkowski" #   change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-url: "" #  change this to the base hostname & protocol for your site
+# baseurl: "jan_kwiatkowski" #   change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+# url: "" #  change this to the base hostname & protocol for your site
 
 
 google_analytics:
