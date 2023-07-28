@@ -1,0 +1,34 @@
+title: JAN KWIATKOWSKI BLOG
+description: This page contains information about my experiences and presents the projects I have created. 
+
+baseurl: "jan_kwiatkowski" #   change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+url: "" #  change this to the base hostname & protocol for your site
+
+
+google_analytics:
+
+# cayman-blog date format
+cayman-blog:
+  date_format: "%b %-d, %Y"
+
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-feed
+
+# social
+author: Jan Kwiatkowski
+image: /thumbnail-jumbo.png
+github: jkwiatk1
+twitter:
+  username: TODO
+
+
+target-blank:
+    rel: nofollow
+
+sass:
+  style: :expanded
+  sass_options:
+    load_paths:
+      - "assets/css"
+    cache_location: "C:/Ruby32-x64/bin/sass"
