@@ -34,3 +34,7 @@ sass:
     load_paths:
       - "assets/css"
     cache_location: "C:/Ruby32-x64/bin/sass"
+
+collections:
+  pages:
+    output: true
