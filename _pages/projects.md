@@ -1,10 +1,10 @@
 ---
 layout: page
-title: My projects
-tagline: My projects
+title: Projects
+tagline: My projects created at the university and at home.
 permalink: /projects.html
 ref: projects
 order: 0
 ---
 
-## Welcome in _My Projects_ section
+## My Projects

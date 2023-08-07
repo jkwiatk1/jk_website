@@ -2,7 +2,7 @@
 layout: page
 title: Notes
 tagline: Notes for help during creating the page
-permalink: /notes.html
+permalink: /blog.html
 ref: notes
 order: 0
 ---
