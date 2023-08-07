@@ -1,5 +1,7 @@
 ---
 layout: home
+title: JAN KWIATKOWSKI BLOG
+tagline: This page contains information about my experiences and presents the projects I have created. 
 ---
 ## Hello! 👋
 
