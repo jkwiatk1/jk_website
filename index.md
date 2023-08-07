@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-Hello! 👋
+## Hello! 👋
 
 I'd like to share some exciting insights into the world of Artificial Intelligence through the eyes of an AI student at Warsaw University of Technology. As a passionate learner in this field, my journey with AI has been both intellectually stimulating and awe-inspiring.
 
