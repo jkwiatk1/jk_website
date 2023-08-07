@@ -14,10 +14,10 @@ I am developing my competence in the field of artificial intelligence. I enjoy l
 * * *
 ### Education
 <dl> 
-<dt>Warsaw University of Technology | _10/2022_ - _now_</dt>
+<dt>Warsaw University of Technology | 10/2022 - now</dt>
 <dd> Master's degree in Computer Science with specialization in Artificial Intelligence. <br>Department of Electronics and Information Technology (EiTI).</dd>
 
-<dt>Warsaw University of Technology | _2018_ - _2022_</dt>
+<dt>Warsaw University of Technology | 2018 - 2022</dt>
 <dd> Engineer in Electrical Engineering with a specialization in Industrial Electronics. <br> Department of Electrical Engineering.</dd>
 </dl>
 
