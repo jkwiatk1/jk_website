@@ -9,7 +9,7 @@ order: 0
 
 ## About Jan 
 
-I am developing my competence in the field of artificial intelligence. I enjoy learning and actively spending my free time. I am ready to make difficult and risky decisions and can look at problems realistically. 
+I am currently developing my competence in the field of **Artificial Intelligence**. In the past, I have been educated in **Power Electronics** and **Electrical Engineering**. I enjoy learning and actively spending my free time. I am ready to make difficult and risky decisions and can look at problems realistically.
 
 * * *
 ### Education
@@ -39,16 +39,41 @@ I am developing my competence in the field of artificial intelligence. I enjoy l
 - **B&R Industrial Automation** | _06/2021_ - _07/2021_
    - During the internship, the team and I were to create a project using a vision system and B&R PLCs.  
 
-- **Adek** | _2019_ - _2021_
-   - Participating in a science club, developing a design and then making an electric go-kart and motorcycle. At the design stage, creating simulations in Matlab/Simulink and 3D models in SolidWorks.
+- **ADek** | _2019_ - _2021_
+   - Participating in a science club as Electric and Mechanic Engineer. Developing a design and then making an electric go-kart and motorcycle. At the design stage, creating simulations in Matlab/Simulink and 3D models in SolidWorks.
 
 * * *
 ### Skills 
 * Language
-* Programming 
-* etc. 
+    * Polish - native
+    * English - B2 level
+    * German - A2 level
+* Environment/Cloud
+    * Google Cloud Platform
+    * Docker 
+    * Ubuntu - Linux
+    * Windows 
+    * VSCode/PyCharm
+* Tools
+    * Python 
+        * pytorch
+        * scikit-learn
+        * numpy
+        * tensorflow
+    * Git 
+    * C++  
+    * Matlab/Simulink
+* Others 
+    * PLC Programming 
+    * Power electronics, electric machines, electric drives and their control
+    * Industrial networks 
+    * Electric circut theory 
+    * Operation of the oscilloscope, electrical value meters and signal generator
+
 
 * * *
-### Achievements
-* MP
+### Certificates and awards
+* Polish Champion in track cycling (2015).
+* Obtaining the Rector's scholarship for academic performance (2019/2020/2021).
+* English language courses in England and the USA. 
 
