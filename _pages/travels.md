@@ -8,3 +8,7 @@ order: 0
 ---
 
 **In progress** 
+
+## Visited countries
+* Poland
+* ...
