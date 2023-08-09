@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_projects
 title: Projects
 tagline: My projects created at the university and at home.
 permalink: /projects.html
@@ -8,3 +8,4 @@ order: 0
 ---
 
 ## My Projects
+

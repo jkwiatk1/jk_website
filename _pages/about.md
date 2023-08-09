@@ -23,7 +23,6 @@ I am currently developing my competence in the field of **Artificial Intelligenc
 
 
 * * *
-
 ### Work experience
 - **MySoft Automatyka Przemyslowa** | _11/2021_ - _10/2022_ 
   - As an Control Engineer/PLC Programmer, I had the pleasure of providing technical support to the engineering department for the start-up of the new Mars factory in Blonie.
