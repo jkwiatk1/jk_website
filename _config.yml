@@ -20,7 +20,9 @@ plugins:
 # social
 author: Jan Kwiatkowski
 image: /thumbnail-jumbo.png
-github: jkwiatk1
+github:
+  owner_url: https://github.com/jkwiatk1
+  owner_name: jkwiatk1
 twitter:
   username: TODO
 
