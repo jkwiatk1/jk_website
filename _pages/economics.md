@@ -1,7 +1,7 @@
 ---
 layout: page
 title: All time high
-tagline: My cycling career and more.
+tagline: Benjamin Graham school and geopolitics.
 permalink: /economics.html
 ref: about
 order: 0
