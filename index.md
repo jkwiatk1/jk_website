@@ -5,4 +5,4 @@ tagline: This page contains information about my experiences and presents the pr
 ---
 ## Hello! 👋
 
-I am fascinated by science. I am currently developing my competence in artificial intelligence, but I also have a degree in power electronics. I like to take on new and challenging challenges and actively spend my free time. 
+My name is Jan and I live in the Warsaw area. I am fascinated by science and I am currently developing my competence in artificial intelligence, also I have a degree in power electronics. I like to take on new and challenging challenges and actively spend my free time.

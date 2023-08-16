@@ -11,6 +11,10 @@ order: 0
 
 I am currently developing my competence in the field of **Artificial Intelligence**. In the past, I have been educated in **Power Electronics** and **Electrical Engineering**. I enjoy learning and actively spending my free time. I am ready to make difficult and risky decisions and can look at problems realistically.
 
+Since I was young, I have been successfully engaged in sports: judo, cycling (won Polish track championship in 2015), gym, etc. 
+
+I enjoy traveling, exploring the world and am interested in meeting new people.  
+
 * * *
 ### Education
 <dl> 
