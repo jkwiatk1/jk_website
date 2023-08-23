@@ -8,4 +8,4 @@ order: 0
 ---
 
 ## My Projects
-
+I am constantly developing. More projects on my [github](https://github.com/jkwiatk1).
