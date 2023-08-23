@@ -7,5 +7,5 @@ ref: hobbies
 order: 0
 ---
 
-## Welcome in my world!
+## Welcome in my world! 🌎
 

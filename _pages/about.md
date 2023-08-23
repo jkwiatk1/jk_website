@@ -16,7 +16,7 @@ Since I was young, I have been successfully engaged in sports: judo, cycling (wo
 I enjoy traveling, exploring the world and am interested in meeting new people.  
 
 * * *
-### Education
+### Education 📖
 <dl> 
 <dt>Warsaw University of Technology | 10/2022 - now</dt>
 <dd> Master's degree in Computer Science with specialization in Artificial Intelligence. <br>Department of Electronics and Information Technology (EiTI).</dd>
@@ -27,7 +27,7 @@ I enjoy traveling, exploring the world and am interested in meeting new people.
 
 
 * * *
-### Work experience
+### Work experience 💰
 - **MySoft Automatyka Przemyslowa** | _11/2021_ - _10/2022_ 
   - As an Control Engineer/PLC Programmer, I had the pleasure of providing technical support to the engineering department for the start-up of the new Mars factory in Blonie.
   - I was responsible for programming new PLCs, as well as maintaining and developing existing machines at the BLN Mars factory. 
@@ -46,7 +46,7 @@ I enjoy traveling, exploring the world and am interested in meeting new people.
    - Participating in a science club as Electric and Mechanic Engineer. Developing a design and then making an electric go-kart and motorcycle. At the design stage, creating simulations in Matlab/Simulink and 3D models in SolidWorks.
 
 * * *
-### Skills 
+### Skills 💎 
 * Language
     * Polish - native
     * English - B2 level
@@ -75,7 +75,7 @@ I enjoy traveling, exploring the world and am interested in meeting new people.
 
 
 * * *
-### Certificates and awards
+### Certificates and awards ✔️
 * Polish Champion in track cycling (2015).
 * Obtaining the Rector's scholarship for academic performance (2019/2020/2021).
 * English language courses in England and the USA. 
