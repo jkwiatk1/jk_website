@@ -67,6 +67,9 @@ I enjoy traveling, exploring the world and am interested in meeting new people.
     * C++  
     * Matlab/Simulink
 * Others 
+    * Machine learning
+    * Data minig 
+    * NLP
     * PLC Programming 
     * Power electronics, electric machines, electric drives and their control
     * Industrial networks 
