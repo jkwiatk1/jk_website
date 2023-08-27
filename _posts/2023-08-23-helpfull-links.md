@@ -30,3 +30,9 @@ A set of tools and features that enable you to analyze business processes based 
     * [dsienkiewicz/xtb_client_ex in Elixir](https://github.com/dsienkiewicz/xtb_client_ex/tree/main)
     * [Saitama298/Python-XTB-API](https://github.com/Saitama298/Python-XTB-API)
     * [federico123579/XTBApi](https://github.com/federico123579/XTBApi/tree/master)
+
+### PublicAPI - A collective list of free APIs for use in software and web development
+* [public-apis/public-apis](https://github.com/public-apis/public-apis)
+
+### Gymnasium -  developing and comparing reinforcement learning algorithms
+* [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium)
