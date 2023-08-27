@@ -17,8 +17,16 @@ He has also very good youtube channel. [His webpage.](https://www.3blue1brown.co
 A set of tools and features that enable you to analyze business processes based on log data.
 * [Link for pm4py github](https://github.com/dair-ai)
 
-### Machine Learning for Tradings
+### Machine Learning for Tradings/ XTB xStation5 API
 * [Deep Reinforcement Learning: Building a Trading Agent '/https://github.com/stefan-jansen']('https://github.com/stefan-jansen/machine-learning-for-trading')
 * [Stefan Jansen Webpage](https://stefan-jansen.github.io/machine-learning-for-trading/22_deep_reinforcement_learning/)
 * [AI4Finance Foundation](https://github.com/AI4Finance-Foundation)
 * [FinRL-Trading](https://github.com/AI4Finance-Foundation/FinRL-Trading/tree/master/old_repo_ensemble_strategy)
+* [robcarver17/pysystemtrade-Interesting/Popular](https://github.com/robcarver17/pysystemtrade)
+* [ddalgotrader](https://github.com/ddalgotrader?tab=repositories)
+* Great API for XTB xStation5: [pawelkn/xapi-python](https://github.com/pawelkn/xapi-python/tree/master)
+* Others XTB xStation:
+    * [XTBZorroPlugin in C/C++](https://github.com/olmallet81/XTBZorroPlugin)
+    * [dsienkiewicz/xtb_client_ex in Elixir](https://github.com/dsienkiewicz/xtb_client_ex/tree/main)
+    * [Saitama298/Python-XTB-API](https://github.com/Saitama298/Python-XTB-API)
+    * [federico123579/XTBApi](https://github.com/federico123579/XTBApi/tree/master)

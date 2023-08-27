@@ -30,6 +30,7 @@ I enjoy traveling, exploring the world and am interested in meeting new people.
 ### Work experience 💰
 - **MySoft Automatyka Przemyslowa** | _11/2021_ - _10/2022_ 
   - As an Control Engineer/PLC Programmer, I had the pleasure of providing technical support to the engineering department for the start-up of the new Mars factory in Blonie.
+  - Implementation of version control system to all PLC machines.
   - I was responsible for programming new PLCs, as well as maintaining and developing existing machines at the BLN Mars factory. 
   - As part of duties, I was also in charge of integrating the industrial network with external systems to monitor the energy consumption of automation machines. 
   - I worked with domestic and foreign industrial automation companies on the integration and commissioning of new machines.
