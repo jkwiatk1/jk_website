@@ -1,7 +1,7 @@
 ---
 layout: page_projects
 title: Projects
-tagline: My projects created at the university and at home.
+tagline: My projects created at the university and at home
 permalink: /projects.html
 ref: projects
 order: 0

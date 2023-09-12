@@ -1,7 +1,7 @@
 ---
 layout: page
 title: All time high
-tagline: Benjamin Graham school and geopolitics.
+tagline: Benjamin Graham school and geopolitics
 permalink: /economics.html
 ref: about
 order: 0

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cars and more
-tagline: A little about my car passion and diy.
+tagline: A little about my car passion and diy
 permalink: /diy.html
 ref: about
 order: 0

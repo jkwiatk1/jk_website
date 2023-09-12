@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-tagline: My experience, education and skills.
+tagline: My experience, education and skills
 permalink: /about.html
 ref: about
 order: 0
