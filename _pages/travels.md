@@ -25,6 +25,7 @@ List of countries I have visited:
 * France 
 * Gibraltar
 * Germany
+* Greece
 * Hungary
 * Netherlands 
 * Italy
