@@ -7,7 +7,9 @@ tagline: This page contains information about my experiences and presents the pr
 
 My name is Jan, I work as a Machine Learning Engineer. 
 
-Science has always fascinated me, and currently I'm diving deep into the world of 💻**Deep Learning**. I've also got a degree in power electronics. I love taking on new challenges📈 and spending my free time actively🚴.
+Science has always fascinated me, and currently I'm diving deep into the world of 💻**Deep Learning**. I am currently creating an experiments related to models based on transformer architecture in time series prediction tasks. I also have knowledge in power electronics.
+
+I love taking on new challenges📈 and spending my free time actively🚴.
 
 **Quick information**
 * Best book ⇒ Daniel Kahneman's "Thinking, Fast and Slow."

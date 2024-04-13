@@ -28,6 +28,10 @@ I enjoy traveling, exploring the world and am interested in meeting new people.
 
 * * *
 ### Work experience 💰
+- **Accenture** | _01/2024_ - now 
+  - Data Scientist at a Fortune 500 company.
+  - Member of the ML team associated with generative AI.
+
 - **MySoft Automatyka Przemyslowa** | _11/2021_ - _10/2022_ 
   - As an Control Engineer/PLC Programmer, I had the pleasure of providing technical support to the engineering department for the start-up of the new Mars factory in Blonie.
   - Implementation of version control system to all PLC machines.
