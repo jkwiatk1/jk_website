@@ -5,9 +5,9 @@ tagline: This page contains information about my experiences and presents the pr
 ---
 ## Hello! 👋
 
-My name is Jan, I work as a Machine Learning Engineer. 
+My name is Jan, I work as a Data Scientist. 
 
-Science has always fascinated me, and currently I'm diving deep into the world of 💻**Deep Learning**. I am currently creating an experiments related to models based on transformer architecture in time series prediction tasks. I also have knowledge in power electronics.
+Science has always fascinated me, and currently I'm diving deep into the world of 💻**Quantitative Trading**. I am currently creating an experiments related to models based on transformer architecture in time series prediction tasks. I also have knowledge in power electronics.
 
 I love taking on new challenges📈 and spending my free time actively🚴.
 
